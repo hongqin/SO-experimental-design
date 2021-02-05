@@ -5,6 +5,8 @@ https://scioly.org/wiki/index.php/Main_Page
 # Practice test
 https://scioly.org/tests/
 
+https://www.atxscioly.org/resources
+
 
 # SO-experimental-design
 
