@@ -11,3 +11,8 @@ https://www.atxscioly.org/resources
 # SO-experimental-design
 
 https://www.youtube.com/watch?v=gHoL_aDanTE 
+
+# Ornithology
+
+# Quizlet
+https://quizlet.com/join/Eqx2YX98f 
