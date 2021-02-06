@@ -9,6 +9,7 @@ https://www.atxscioly.org/resources
 
 
 # SO-experimental-design
+https://scioly.org/wiki/index.php/Experimental_Design 
 
 https://www.youtube.com/watch?v=gHoL_aDanTE 
 
