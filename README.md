@@ -2,6 +2,9 @@
 
 https://scioly.org/wiki/index.php/Main_Page 
 
+# 2021 Rule
+https://scioly.org/wiki/index.php/2021
+
 # Practice test
 https://scioly.org/tests/
 
